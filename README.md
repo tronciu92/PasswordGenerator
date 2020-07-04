@@ -21,3 +21,19 @@ Once the program has verified that the password length meets the minimum and max
 Once the user has generated a new password, there is a secondary function that allows the user to copy the newly generated password to their clipboard, in order to copy and paste it into another application, such as a text editor or web browser.
 
 ### URL: https://tronciu92.github.io/PasswordGenerator/
+### Screenshots:
+<img src="https://github.com/tronciu92/PasswordGenerator/blob/master/assets/img/1.png">
+
+<img src="https://github.com/tronciu92/PasswordGenerator/blob/master/assets/img/2.png">
+
+<img src="https://github.com/tronciu92/PasswordGenerator/blob/master/assets/img/3.png">
+
+<img scr="https://github.com/tronciu92/PasswordGenerator/blob/master/assets/img/4.png">
+
+<img scr="https://github.com/tronciu92/PasswordGenerator/blob/master/assets/img/5.png">
+
+<img scr="https://github.com/tronciu92/PasswordGenerator/blob/master/assets/img/6.png">
+
+<img scr="https://github.com/tronciu92/PasswordGenerator/blob/master/assets/img/7.png">
+
+<img scr="https://github.com/tronciu92/PasswordGenerator/blob/master/assets/img/8.png">
