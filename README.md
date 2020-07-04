@@ -28,12 +28,3 @@ Once the user has generated a new password, there is a secondary function that a
 
 <img src="https://github.com/tronciu92/PasswordGenerator/blob/master/assets/img/3.png">
 
-<img scr="https://github.com/tronciu92/PasswordGenerator/blob/master/assets/img/4.png">
-
-<img scr="https://github.com/tronciu92/PasswordGenerator/blob/master/assets/img/5.png">
-
-<img scr="https://github.com/tronciu92/PasswordGenerator/blob/master/assets/img/6.png">
-
-<img scr="https://github.com/tronciu92/PasswordGenerator/blob/master/assets/img/7.png">
-
-<img scr="https://github.com/tronciu92/PasswordGenerator/blob/master/assets/img/8.png">
